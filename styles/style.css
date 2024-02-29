@@ -52,7 +52,30 @@
   text-align: left;
 }
 .main-content {
-  margin-right: auto;
-  margin-left: auto;
+    margin: 0 auto;
   padding: 50px 30px;
+  text-align: left;
+}
+.content-right {
+  display: inline-block;
+  background-color: #ececec;
+  width: 400px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  /* margin-left: 350px; */
+  
+  
+}
+
+.aside-title {
+  font-size: 18px;
+  color: #525c60;
+  margin-top: 25px;
+  margin-bottom: 36px;
+  font-weight: bold;
+  
+}
+.aside-descr {
+  font-size: 18px;
+  color: #525c60;
 }
