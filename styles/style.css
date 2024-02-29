@@ -50,32 +50,44 @@
   width: 671px;
   vertical-align: top;
   text-align: left;
+  margin-right: 380px;
 }
 .main-content {
-    margin: 0 auto;
+  margin: 0 auto;
   padding: 50px 30px;
+  padding-right: 0px;
   text-align: left;
+  width: 100%;
 }
 .content-right {
   display: inline-block;
   background-color: #ececec;
-  width: 400px;
+  width: 430px;
   padding-left: 15px;
   padding-bottom: 15px;
-  /* margin-left: 350px; */
-  
-  
+  vertical-align: top;
+  margin-left: 20px;
 }
-
 .aside-title {
   font-size: 18px;
   color: #525c60;
   margin-top: 25px;
   margin-bottom: 36px;
   font-weight: bold;
-  
 }
 .aside-descr {
   font-size: 18px;
   color: #525c60;
+}
+/* footer styles */
+.footer-block {
+  width: 100%;
+  margin: 0 auto;
+  background-color: darkcyan;
+}
+.footer-title {
+  color: whitesmoke;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
 }
