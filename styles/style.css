@@ -62,11 +62,11 @@
 .content-right {
   display: inline-block;
   background-color: #ececec;
-  width: 430px;
+  width: 425px;
   padding-left: 15px;
   padding-bottom: 15px;
   vertical-align: top;
-  margin-left: 10px;
+  /* margin-left: ; */
 }
 .aside-title {
   font-size: 18px;
