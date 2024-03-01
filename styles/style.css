@@ -35,34 +35,37 @@
 .slogan {
   font-size: 45px;
   color: #274c5b;
-  width: 524px;
+  max-width: 524px;
 }
 .slogan-description {
   font-size: 18px;
   color: #525c60;
   margin-top: 25px;
   margin-bottom: 36px;
-  width: 671px;
+  max-width: 671px;
   height: 60px;
 }
 .content-left {
   display: inline-block;
-  width: 671px;
+  /* width: 671px; */
+  width: 70%;
   vertical-align: top;
   text-align: left;
-  margin-right: 380px;
+  /* margin-right: 380px; */
 }
 .main-content {
   margin: 0 auto;
   padding: 50px 30px;
   padding-right: 0px;
-  text-align: left;
-  width: 100%;
+  /* text-align: left; */
+  /* width: 100%; */
+
 }
 .content-right {
   display: inline-block;
   background-color: #ececec;
-  width: 425px;
+  /* width: 425px; */
+  width: 30%;
   padding-left: 15px;
   padding-bottom: 15px;
   vertical-align: top;
